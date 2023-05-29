@@ -1,4 +1,7 @@
 # Activate Burp Suite Professional Version for FREE
+> works for `linux` & `windows` (not sure about `mac`)
+
+<br>
 
 ## Activation Steps:
 
