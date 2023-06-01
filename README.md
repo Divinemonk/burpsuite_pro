@@ -16,3 +16,11 @@
 5) Now run the `BurpLoaderKeygen.jar` from terminal/commandline (works both for linux & windows - mac not sure)
     - `java -jar BurpLoaderKeygen.jar`
 6) Follow further activation steps from here https://github.com/hanshaze/burp
+
+<br>
+
+## Update previous installation
+To update to latest verion follow following steps:
+- Follow `step 3`, from above [activation steps](#activation-steps)
+- Delete previous/old `.jar` file & replace it with lastest version (which you download above)
+- Now follow from `step 4` onwards, from above [activation steps](#activation-steps)
