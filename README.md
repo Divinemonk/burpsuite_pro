@@ -3,7 +3,7 @@
 
 <br>
 
-## Automation script:
+## Automation script
 - Use our script to automate the whole process (only for linux - debian based systems)
 
 - Download the script (click [here](https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh)) and run `bash burpsuite_pro.sh`
