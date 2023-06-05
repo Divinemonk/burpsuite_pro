@@ -3,6 +3,15 @@
 
 <br>
 
+## Automation script 
+- Use our script to automate the whole process (only for linux - debian based systems)
+
+- Download the script (click [here](https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh)) and run `bash burpsuite_pro.sh`
+
+
+
+<br>
+
 ## Activation Steps:
 
 1) Download and install latest Burp Suite Professional Version from official site ([redirect to offical site & download](https://portswigger.net/burp/releases))
