@@ -7,6 +7,7 @@
 - Use our script to automate the whole process (only for linux - debian based systems)
 
 - Download the script (click [here](https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh)) or `wget https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh` and run `bash burpsuite_pro.sh`/`sh burpsuite_pro.sh`
+    - if `-d` flag is passed, delete `burpsuite_pro.sh` script
 - Check the [`latest releases`](https://github.com/Divinemonk/burpsuite_pro/releases/latest) for detailed installation guide
 
 
