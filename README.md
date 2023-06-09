@@ -6,9 +6,7 @@
 ## Automation script
 - Use our script to automate the whole process (only for linux - debian based systems)
 
-- Download the script (click [here](https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh)) and run `bash burpsuite_pro.sh -k`
-    - `-k` keeps `burpsuite_pro.sh` script, if not passed after installaation it will be deleted
-
+- Download the script (click [here](https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh)) or `wget https://github.com/Divinemonk/burpsuite_pro/releases/latest/download/burpsuite_pro.sh` and run `bash burpsuite_pro.sh`/`sh burpsuite_pro.sh`
 - Check the [`latest releases`](https://github.com/Divinemonk/burpsuite_pro/releases/latest) for detailed installation guide
 
 
