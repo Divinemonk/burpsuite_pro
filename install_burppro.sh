@@ -78,6 +78,9 @@ rm burp.html
 echo "[+] Downloading burpsuite pro v$version from portswigger.net..."
 echo "[i] This may take some time, please wait..."
 wget "https://portswigger-cdn.net/burp/releases/download?product=pro&version=$version&type=jar" -o burpsuite_pro_v$version.jar -q > /dev/null
+
+# rename the downloaded file to burpsuite_pro_v<version>.jar
+mv "download?product=pro&version=$version&type=jar" burpsuite_pro_v$version.jar
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
 printf "\n"
 
