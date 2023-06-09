@@ -77,10 +77,7 @@ rm burp.html
 # download the latest burpsuite pro version
 echo "[+] Downloading burpsuite pro v$version from portswigger.net..."
 echo "[i] This may take some time, please wait..."
-wget "https://portswigger-cdn.net/burp/releases/download?product=pro&version=$version&type=jar" -q > /dev/null
-
-# rename the downloaded file to burpsuite_pro_v<version>.jar
-mv 'download?product=pro&version=2023.5.2&type=jar' burpsuite_pro_v$version.jar
+wget "https://portswigger-cdn.net/burp/releases/download?product=pro&version=$version&type=jar" -o burpsuite_pro_v$version.jar -q > /dev/null
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
 printf "\n"
 
