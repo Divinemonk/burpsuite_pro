@@ -10,7 +10,7 @@
 
 
 # check if we are running as root
-if [ "$EUID" -ne 0 ]
+if [ "$EUID" -ne "0" ]
 then 
     printf "\n"
     echo "[!] Please run as root"
