@@ -1,5 +1,5 @@
 # Activate Burp Suite Professional Version for FREE
-> tested: `linux`, `windows` & `mac`
+> tested: `linux`, `windows`
 
 <br>
 
