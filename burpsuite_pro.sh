@@ -36,9 +36,3 @@ chmod +x install_burppro.sh
 
 # clean up
 rm install_burppro.sh
-
-# if `-k` flag is passed, keep this (burpsuite_pro.sh) script
-if [ "$1" != "-k" ]
-then
-    rm burpsuite_pro.sh
-fi
