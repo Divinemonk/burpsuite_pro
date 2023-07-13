@@ -36,6 +36,14 @@ To update to latest verion follow following steps:
 - Delete previous/old `.jar` file & replace it with lastest version (which you download above)
 - Now follow from `step 4` onwards, from above [activation steps](#activation-steps)
 
+<br>
+
+### Video reference
+
+https://github.com/Divinemonk/burpsuite_pro/assets/82360546/09faea45-9768-43be-b748-154f3473a075
+
+
+
 
 <br>
 
